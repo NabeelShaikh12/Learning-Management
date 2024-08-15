@@ -1,0 +1,31 @@
+{
+  "version": "7.0.0",
+  "min": "6.5.1",
+  "release_date": "17/05/2024",
+  "migrations": [
+    "database/migrations/2023_12_28_111917_add_first_name_last_name_i_d_column.php",
+    "Modules/CourseSetting/Database/Migrations/2024_01_01_174430_AddColorColumnInCategory.php",
+    "Modules/FrontendManage/Database/Migrations/2024_01_04_130411_AddHeaderFooterInFrontend.php",
+    "Modules/NotificationSetup/Database/Migrations/2024_01_05_172117_UpdateTempleteSubject.php",
+    "database/migrations/2024_01_05_173426_add_is_web_login_column_in_web.php",
+    "Modules/NotificationSetup/Database/Migrations/2024_01_17_145314_AddNewTempleteForStudentNotification.php",
+    "Modules/ModuleManager/Database/Migrations/2024_01_23_121532_AddAmazonPaymentModule.php",
+    "Modules/Certificate/Database/Migrations/2024_01_31_111807_addSettingForManuallCertificate.php",
+    "Modules/CourseSetting/Database/Migrations/2024_01_31_174343_create_lesson_questions_table.php",
+    "Modules/NotificationSetup/Database/Migrations/2024_01_31_152150_AddQuestionAnswerNotificaiton.php",
+    "Modules/RolePermission/Database/Migrations/2024_01_31_155720_AddQuestionAnswerPermission.php",
+    "Modules/SystemSetting/Database/Migrations/2024_02_05_154510_AddTranslationInEmailTemplete.php",
+    "Modules/NotificationSetup/Database/Migrations/2024_02_09_144216_UpdateRoleNotification.php",
+    "Modules/ModuleManager/Database/Migrations/2024_01_23_121532_AddTapPaymentModule.php",
+    "Modules/RolePermission/Database/Migrations/2024_01_31_155720_AddPusherSettingPermission.php",
+    "database/migrations/2024_04_15_105410_add_new_emil_templatefor_email_o_t_p.php",
+    "Modules/NotificationSetup/Database/Migrations/2024_04_19_155931_UpdateRoleNotification2.php",
+    "Modules/SidebarManager/Database/Migrations/2024_04_23_130918_AddIconInPermissionSection.php",
+    "Modules/ModuleManager/Database/Migrations/2024_04_24_121532_AddAstraPayModule.php",
+    "Modules/RolePermission/Database/Migrations/2024_05_16_103243_ChangePermissionNameColumn.php"
+  ],
+  "url": "https://www.aorasoft.com/",
+  "notes": "This is a bug fixing & new feature update."
+}
+
+
